@@ -16,4 +16,3 @@ Zhycorp is a fairly active and growing community, filled with imaginative member
 ## Top Management
 Here are the list of our managers name, position, and contact. (Updated on 20/01/22)
 - "Zen Shibata" (Community CEO, Developer) | E-mail: <a href="mailto:zen@zhycorp.net">zen@zhycorp.net</a>
-- Mozart Rafi Kurniawan (Community Founder, Helper) | E-mail: <a href="mailto:mozartrafi@zhycorp.net">mozartrafi@zhycorp.net</a>
