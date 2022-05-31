@@ -1,0 +1,19 @@
+name: Update README staff list
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with latest staff list from Zhycorp
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3.0.2
+
+      - name: Update README
+        working-directory: ./profile
+        uses: zhycorp/staff-readme@main
