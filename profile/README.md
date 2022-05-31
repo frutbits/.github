@@ -14,6 +14,6 @@
 Zhycorp is a fairly active and growing community, filled with imaginative members, which might make this community even more interesting. We support all categories, starting from programming, gaming, or daily chit chat that can entertain others.
 
 ## Top Management
-Here are the list of our managers name, position, and contact. (Updated on 14/04/22)
-- "Zen Shibata" (Community CEO, Developer) | E-mail: <a href="mailto:zen@zhycorp.org">zen@zhycorp.org</a>
-- "MUTED" (Discord Staff, Administrator) | Discord: <b>MUTED#5822</b>
+Here are the list of our managers name, and position
+<!--START_SECTION:administrator_list-->
+<!--END_SECTION:administrator_list-->
