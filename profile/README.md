@@ -14,7 +14,7 @@
 Zhycorp is a fairly active and growing community, filled with imaginative members, which might make this community even more interesting. We support all categories, starting from programming, gaming, or daily chit chat that can entertain others.
 
 ## Top Management
-Here are the list of our managers name, and position
+Here are the list of our staff:
 <!--START_SECTION:administrator_list-->
 <table>
 <tr><td align="center"><a href="https://zhycorp.org/staff"><img src="https://cdn.discordapp.com/avatars/661936667254325269/a_7af9bdc03d0cf9f804e2f497eeff8407.webp?size=4096" width="100px;" alt=""/><br /><sub><b>MUTED#5822</b></sub></a><br/></td>
