@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with latest staff list from Zhycorp
+    name: Update this repo's README with latest staff list from FrutBits Indonesia
 
     steps:
       - name: Checkout repository
@@ -17,4 +17,4 @@ jobs:
       - name: Update README
         env:
           WORKING_DIRECTORY: ./profile
-        uses: zhycorp/staff-readme@main
+        uses: frutbits/staff-readme@main
